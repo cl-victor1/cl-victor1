@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 💬 Ask me about studying CS together.  
 
 ### Computer Science Study  
+[Johns Hopkins University] HTML, CSS, and Javascript for Web Developers 
+Finished. [link](https://www.coursera.org/learn/html-css-javascript-for-web-developers)  
+  
 [UC Berkeley] CS 61A (23 Fall): Structure and Interpretation of Computer Programs  
 Finished. [link](https://github.com/cl-victor1/CS61A-23FALL)  
   
@@ -25,4 +28,4 @@ Finished. [link](https://github.com/cl-victor1/CS61A-23FALL)
 Finished. [link](https://github.com/cl-victor1/cs61b-sp21)  
   
 [UC Berkeley] CS 61C (20 Fall): Great Ideas in Computer Architecture  
-In progress. [link](https://github.com/cl-victor1/cs61C-fall20)
+In progress. [link](https://github.com/cl-victor1/cs61C-fall20) 
