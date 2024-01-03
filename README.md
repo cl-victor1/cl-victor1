@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Computer Science Study  
 [Johns Hopkins University] HTML, CSS, and Javascript for Web Developers   
-Finished. [link](https://www.coursera.org/learn/html-css-javascript-for-web-developers)  
+Finished. [link](https://github.com/cl-victor1/HTML-CSS-and-Javascript-for-Web-Developers)  
   
 [UC Berkeley] CS 61A (23 Fall): Structure and Interpretation of Computer Programs  
 Finished. [link](https://github.com/cl-victor1/CS61A-23FALL)  
