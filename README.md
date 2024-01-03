@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning CLMS at UW.
+🌱 I’m currently learning CLMS at UW.\\
 💬 Ask me about studying CS together.
