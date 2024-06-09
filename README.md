@@ -43,7 +43,7 @@ Finished. [link](https://github.com/cl-victor1/CS61A-23FALL)
 [UC Berkeley] CS 61B: Data Structures (21 Spring)  
 Finished. [link](https://github.com/cl-victor1/cs61b-sp21)  
   
-[CMU] Computer Systems: A Programmer's Perspective, 3/E  
+[CMU] 15-213 Introduction to Computer Systems  
 In progress. [link](https://github.com/cl-victor1/15-213) 
 
 </div>
