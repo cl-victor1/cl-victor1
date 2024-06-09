@@ -37,13 +37,13 @@ Stay hungry, stay foolish.
 [Johns Hopkins University] HTML, CSS, and Javascript for Web Developers   
 Finished. [link](https://github.com/cl-victor1/HTML-CSS-and-Javascript-for-Web-Developers)  
   
-[UC Berkeley] CS 61A (23 Fall): Structure and Interpretation of Computer Programs  
+[UC Berkeley] CS 61A: Structure and Interpretation of Computer Programs (23 Fall)   
 Finished. [link](https://github.com/cl-victor1/CS61A-23FALL)  
   
-[UC Berkeley] CS 61B (21 Spring): Data Structures  
+[UC Berkeley] CS 61B: Data Structures (21 Spring)  
 Finished. [link](https://github.com/cl-victor1/cs61b-sp21)  
   
-[UC Berkeley] CS 61C (20 Fall): Great Ideas in Computer Architecture  
-In progress. [link](https://github.com/cl-victor1/cs61C-fall20) 
+[CMU] Computer Systems: A Programmer's Perspective, 3/E  
+In progress. [link](https://github.com/cl-victor1/15-213) 
 
 </div>
