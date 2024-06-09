@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cl-victor1&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
+</p>
 
 ---
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### Languages
 
-![current](https://skillicons.dev/icons?i=py,java,bash,md,scheme,js,html,css,c,latex&perline=6&theme=dark)
+![current](https://skillicons.dev/icons?i=py,java,bash,md,js,html,css,c,latex&perline=6&theme=dark)
 
 #### Tools
 
