@@ -8,7 +8,7 @@
 Stay hungry, stay foolish.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cl-victor1&show_icons=true&theme=github_dark&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
+  <img src="https://github-readme-stats.vercel.app/api?username=cl-victor1&count_private=true&show_icons=true&theme=github_dark&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
   </p>
   
 ---
