@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align="center">
 <!--
 **cl-victor1/cl-victor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,10 +38,7 @@ Here are some ideas to get you started:
 ![used](https://skillicons.dev/icons?i=windows,linkedin,obsidian,twitter,stackoverflow,gmail,instagram,anaconda,apple,azure,discord&perline=6&theme=dark)
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuozhiyongde&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl-victor1&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="cl-victor1">
 
 ### Computer Science Study  
 [Johns Hopkins University] HTML, CSS, and Javascript for Web Developers   
@@ -55,3 +52,5 @@ Finished. [link](https://github.com/cl-victor1/cs61b-sp21)
   
 [UC Berkeley] CS 61C (20 Fall): Great Ideas in Computer Architecture  
 In progress. [link](https://github.com/cl-victor1/cs61C-fall20) 
+
+</div>
