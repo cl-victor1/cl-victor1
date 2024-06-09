@@ -17,7 +17,27 @@ Here are some ideas to get you started:
 🌱 I’m currently a CLMS student at UW.   
 💬 Ask me about studying CS together.  
 
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cl-victor1&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+
+### My Stack
+
+#### Current
+
+![current](https://skillicons.dev/icons?i=python,java,sql,pytorch,md,scheme,ps,js,html,css,c&perline=6&theme=dark)
+
+#### Used
+
+![used](https://skillicons.dev/icons?i=mysql,oracle,nano,vim&perline=6&theme=dark)
+
+#### Tools
+
+![tools](https://skillicons.dev/icons?i=github,vscode,linux,git,IntelliJ&perline=6&theme=dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuozhiyongde&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
+</p>
 
 ### Computer Science Study  
 [Johns Hopkins University] HTML, CSS, and Javascript for Web Developers   
