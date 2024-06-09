@@ -21,19 +21,23 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cl-victor1&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 
+---
+
 ### My Stack
 
-#### Current
+#### Languages
 
-![current](https://skillicons.dev/icons?i=python,java,sql,pytorch,md,scheme,ps,js,html,css,c&perline=6&theme=dark)
-
-#### Used
-
-![used](https://skillicons.dev/icons?i=mysql,oracle,nano,vim&perline=6&theme=dark)
+![current](https://skillicons.dev/icons?i=py,java,bash,md,scheme,js,html,css,c,latex&perline=6&theme=dark)
 
 #### Tools
 
-![tools](https://skillicons.dev/icons?i=github,vscode,linux,git,IntelliJ&perline=6&theme=dark)
+![tools](https://skillicons.dev/icons?i=pytorch,sublime,sklearn,ubuntu,ps,regex,powershell,pycharm,github,vscode,linux,git,visualstudio,idea,mysql,vim&perline=6&theme=dark)
+
+#### Used
+
+![used](https://skillicons.dev/icons?i=windows,linkedin,obsidian,twitter,stackoverflow,gmail,instagram,anaconda,apple,azure,discord&perline=6&theme=dark)
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuozhiyongde&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
