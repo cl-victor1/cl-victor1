@@ -46,6 +46,6 @@ Finished. [link](https://github.com/cl-victor1/CS61A-23FALL)
 Finished. [link](https://github.com/cl-victor1/cs61b-sp21)  
   
 [UC Berkeley] CS 61C: Great Ideas in Computer Architecture (20 Fall) 
-In progress. [link](https://github.com/cl-victor1/CS61C-23FALL) 
+In progress. [link](https://github.com/cl-victor1/CS61C-20FALL) 
 
 </div>
