@@ -45,7 +45,7 @@ Finished. [link](https://github.com/cl-victor1/CS61A-23FALL)
 [UC Berkeley] CS 61B: Data Structures (21 Spring)  
 Finished. [link](https://github.com/cl-victor1/cs61b-sp21)  
   
-[UC Berkeley] CS 61C: Great Ideas in Computer Architecture (20 Fall) 
+[UC Berkeley] CS 61C: Great Ideas in Computer Architecture (20 Fall)   
 In progress. [link](https://github.com/cl-victor1/CS61C-20FALL) 
 
 </div>
