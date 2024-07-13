@@ -6,7 +6,7 @@
 <div align="center">
   <h1><pre>Hi, I'm Victor.</pre></h1>
 </div>
-
+---
 Stay hungry, stay foolish.
 
 <p align="center">
@@ -14,7 +14,7 @@ Stay hungry, stay foolish.
   </p>
   
 
-
+---
 ### My Stack
 
 #### Languages
