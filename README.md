@@ -7,8 +7,6 @@
   <h1>Hi, I'm Victor.</h1>
 </p>
 
----
-
 Stay hungry, stay foolish.
 
 <p align="center">
