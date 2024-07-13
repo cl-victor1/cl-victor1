@@ -3,10 +3,12 @@
 
 ![The_Coronation_of_Napoleon.png](Napoleon.jpg)
 
-<div align="center">
+<p align="center">
   <h1><pre>Hi, I'm Victor.</pre></h1>
-</div>
+</p>
+
 ---
+
 Stay hungry, stay foolish.
 
 <p align="center">
@@ -34,6 +36,7 @@ Stay hungry, stay foolish.
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cl-victor1&theme=dark" alt="cl-victor1" /></p>
+
 ---
 
 ### Computer Science Study  
