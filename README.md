@@ -4,7 +4,7 @@
 ![The_Coronation_of_Napoleon.png](Napoleon.jpg)
 
 <p align="center">
-  <h1><pre>Hi, I'm Victor.</pre></h1>
+  Hi, I'm Victor.
 </p>
 
 ---
@@ -17,6 +17,7 @@ Stay hungry, stay foolish.
   
 
 ---
+
 ### My Stack
 
 #### Languages
