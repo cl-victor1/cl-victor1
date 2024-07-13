@@ -4,7 +4,7 @@
 ![The_Coronation_of_Napoleon.png](Napoleon.jpg)
 
 <p align="center">
-  Hi, I'm Victor.
+  <h1>Hi, I'm Victor.</h1>
 </p>
 
 ---
