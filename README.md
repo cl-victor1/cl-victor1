@@ -24,7 +24,7 @@ Stay hungry, stay foolish.
 
 #### Tools
 
-![tools](https://skillicons.dev/icons?i=pytorch,sublime,sklearn,ubuntu,ps,regex,powershell,pycharm,github,vscode,linux,git,visualstudio,idea,mysql,vim,react&perline=6&theme=dark)
+![tools](https://skillicons.dev/icons?i=pytorch,sublime,sklearn,ubuntu,ps,regex,powershell,pycharm,github,vscode,linux,git,visualstudio,idea,mysql,vim,react,clion&perline=6&theme=dark)
 
 #### Used
 
