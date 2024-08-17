@@ -5,22 +5,14 @@
 
 <p align="center">
   <h1>Hi, I'm Victor.</h1>
+  Stay hungry, stay foolish.
 </p>
-Stay hungry, stay foolish.
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cl-victor1&count_private=true&show_icons=true&theme=github_dark&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=10" alt="zhuozhiyongde">
   </p>
   
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('buy_victor_a_coffee', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
 ---
 
 ### My Stack
