@@ -5,8 +5,7 @@
 
 <p align="center">
   <h1>Hi, I'm Victor.</h1>
-  <a href='https://ko-fi.com/Z8Z111YRWQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</p>
+  <iframe id='kofiframe' src='https://ko-fi.com/buy_victor_a_coffee/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='buy_victor_a_coffee'></iframe>
 
 Stay hungry, stay foolish.
 
