@@ -19,15 +19,15 @@
 
 #### Languages
 
-![current](https://skillicons.dev/icons?i=py,java,bash,md,js,html,css,c,latex&perline=6&theme=dark)
+![current](https://skillicons.dev/icons?i=nodejs,py,java,bash,md,js,ts,vue,react,nuxtjs,nextjs,html,css,c,latex&perline=6&theme=dark)
 
 #### Tools
 
-![tools](https://skillicons.dev/icons?i=pytorch,sublime,sklearn,ubuntu,ps,regex,powershell,pycharm,github,vscode,linux,git,visualstudio,idea,mysql,vim,react,clion&perline=6&theme=dark)
+![tools](https://skillicons.dev/icons?i=docker,npm,cloudflare,tailwind,supabase,pytorch,sublime,sklearn,ubuntu,ps,regex,powershell,pycharm,github,vscode,linux,git,visualstudio,idea,mysql,vim,clion&perline=6&theme=dark)
 
 #### Used
 
-![used](https://skillicons.dev/icons?i=windows,linkedin,obsidian,twitter,stackoverflow,gmail,instagram,anaconda,apple,azure,discord&perline=6&theme=dark)
+![used](https://skillicons.dev/icons?i=vercel,windows,linkedin,obsidian,twitter,stackoverflow,gmail,instagram,anaconda,apple,azure,discord&perline=6&theme=dark)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl-victor1&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="cl-victor1">
