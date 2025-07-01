@@ -33,7 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl-victor1&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="cl-victor1">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cl-victor1&theme=dark" alt="cl-victor1" /></p>
 
 ---
 
